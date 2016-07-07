@@ -1,3 +1,3 @@
 # JavaWeb-ProjHibernate03
 
-Projeto Java com Hibernate (cardinalidade - Muitos para muitos)
+Projeto Java com Hibernate (cardinalidade - N para N)
